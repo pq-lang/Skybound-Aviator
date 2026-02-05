@@ -1,0 +1,5 @@
+{
+  "name": "Skybound Aviator AI",
+  "description": "A high-stakes Aviator-style crash game featuring real-time AI flight commentary, dynamic scaling graphics, and a simulated social betting environment.",
+  "requestFramePermissions": []
+}
